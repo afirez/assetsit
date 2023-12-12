@@ -1,0 +1,33 @@
+{
+	"code": 0,
+	"data": {
+		"list": [{
+			"cdn": "https://static.shorttv.live",
+			"location": "",
+			"weight": 0,
+			"fail": 0,
+			"path": "/favicon.ico?v=1"
+		}, {
+			"cdn": "https://volcengine-static.shorttv.live",
+			"location": "",
+			"weight": 0,
+			"fail": 0,
+			"path": "/favicon.ico?v=1"
+		}, {
+			"cdn": "https://google-static.shorttv.live",
+			"location": "",
+			"weight": 0,
+			"fail": 0,
+			"path": "/favicon.ico?v=1"
+		}, {
+			"cdn": "https://akamai-static.shorttv.live",
+			"location": "",
+			"weight": 0,
+			"fail": 0,
+			"path": "/favicon.ico?v=1"
+		}]
+	},
+	"msg": "success",
+	"status": 0,
+	"timestamp": 1702384545
+}
