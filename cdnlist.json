@@ -2,7 +2,7 @@
 	"code": 0,
 	"data": {
 		"list": [{
-			"cdn": "https://static.shorttv.live",
+			"cdn": "https://static.shorttv11.live",
 			"location": "",
 			"weight": 0,
 			"fail": 0,
@@ -14,13 +14,13 @@
 			"fail": 0,
 			"path": "/favicon.ico?v=1"
 		}, {
-			"cdn": "https://goossgle-static.shorttv.live",
+			"cdn": "https://google-static11.shorttv.live",
 			"location": "",
 			"weight": 0,
 			"fail": 0,
 			"path": "/favicon.ico?v=1"
 		}, {
-			"cdn": "https://akamai-static.shorttv.live",
+			"cdn": "https://akamai-static11.shorttv.live",
 			"location": "",
 			"weight": 0,
 			"fail": 0,
